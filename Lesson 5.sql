@@ -4,7 +4,4 @@ select                       last_name
      "Dream Salaries"
 from employees;
 
-select last_name
-,      hire_date
-,       "Review"
-from employees;
+--2
